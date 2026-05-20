@@ -1,0 +1,8 @@
+*{
+    background-color: cornsilk;
+font-family: "Plus Jakarta Sans", sans-serif;
+}
+h1{
+    background-color: brown;
+    display: flex;
+}
