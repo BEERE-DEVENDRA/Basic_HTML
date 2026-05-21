@@ -1,0 +1,15 @@
+.sport{
+    text-align: center;
+}
+fieldset{
+    border: none;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+table,td,th,tr{
+    border:1px solid black;
+    
+}
